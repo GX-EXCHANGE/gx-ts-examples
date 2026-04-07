@@ -1,5 +1,17 @@
-# ts-examples
+# GX Exchange TypeScript Examples
 
-Sample scripts/snippets for computing various frontend values. Refer to [@nktas/gx-exchange](https://github.com/nktkas/gx-exchange) or [gx-exchange-ts-sdk](https://github.com/nomeida/gx-exchange) for Typescript SDKs written by a member of the community.
+Sample scripts and code snippets demonstrating how to interact with the GX Exchange API using TypeScript. These examples cover common trading workflows and frontend value computations.
 
-You can run OrderExample by installing the dependencies `npm install` and then using tsx `npm tsx examples/OrderExample.tsx`
+## Overview
+
+- Practical examples for order placement, market data retrieval, and account management
+- Demonstrates usage patterns for the GX Exchange TypeScript SDK
+- Suitable as a starting point for building custom trading tools and integrations
+
+## Requirements
+
+- Node.js 18+
+
+## License
+
+MIT
