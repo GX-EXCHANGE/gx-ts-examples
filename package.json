@@ -1,7 +1,7 @@
 {
-  "name": "ts-examples",
+  "name": "gx-ts-examples",
   "version": "1.0.0",
-  "description": "Sample scripts/snippets for computing various frontend values. Refer to [hyperliquid-ts-sdk](https://github.com/nomeida/hyperliquid) for a Typescript SDK written by a member of the community.",
+  "description": "Sample scripts/snippets for computing various frontend values for the GX Exchange API.",
   "main": "index.js",
   "directories": {
     "example": "examples"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyperliquid-dex/ts-examples.git"
+    "url": "git+https://github.com/gx-exchange/gx-ts-examples.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hyperliquid-dex/ts-examples/issues"
+    "url": "https://github.com/gx-exchange/gx-ts-examples/issues"
   },
-  "homepage": "https://github.com/hyperliquid-dex/ts-examples#readme",
+  "homepage": "https://github.com/gx-exchange/gx-ts-examples#readme",
   "dependencies": {
     "@msgpack/msgpack": "^3.0.0-beta3",
     "axios": "^1.7.9",
