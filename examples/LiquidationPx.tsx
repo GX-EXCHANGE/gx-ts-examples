@@ -240,7 +240,7 @@ async function estimatedLiqPxAndExplanationExample(
     headers: { "Content-Type": "application/json" },
     body: `{"type":"webData2","user":"${address}"}`,
   };
-  const url = "https://api-ui.gx-exchange-testnet.xyz/info";
+  const url = "https://api.gx-exchange-testnet.xyz/info";
   const resp = await fetch(url, request);
 
   const webData: WebData = parseJsonUnquotingFloatString(await resp.text());

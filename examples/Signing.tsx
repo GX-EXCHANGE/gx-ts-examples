@@ -9,9 +9,9 @@ type Signature = {
 
 const IS_MAINNET = true; // switch this to false to sign for testnet
 const phantomDomain = {
-  name: "Exchange",
+  name: "GX Exchange",
   version: "1",
-  chainId: 1337,
+  chainId: 1000,
   verifyingContract: "0x0000000000000000000000000000000000000000" as const,
 };
 const agentTypes = {

@@ -46,7 +46,7 @@ console.log(response.data); // { "ETH": "1850.5", "BTC": "43200.0", ... }
 Set the API base URL in your scripts:
 
 - **Mainnet:** `https://api.gx.exchange`
-- **Testnet:** `https://api.testnet.gx.exchange`
+- **Testnet:** `https://api.gx-exchange-testnet.xyz`
 
 ## Requirements
 
